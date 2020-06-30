@@ -14,3 +14,5 @@ In this homework, you will create a website about your favorite character from a
 The website changes every time a new commit has been made to master. So it will only show the version of the website on the master branch, changes on other branches will not be visible on the website. If you want to see the changes you have made to your feature branch, look on GitHub at the index.md file in your repository on your feature branch (switch branches in the top left corner). The markdown is automatically generated there and you can see what did not work like you wanted it to.
 
 Have fun and good luck with this exercise!
+
+Upps After 25 minutes I am still waiting for the first issue.
