@@ -15,3 +15,9 @@ That makes him the hero.
 
 In one moment Harmonica said
 > You brought two too many!
+
+Bild von Anne
+
+<img src="http://www.vitalite.de/wp-content/uploads/2014/07/CTD7100011504_final.jpg"/>
+
+
